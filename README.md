@@ -37,5 +37,4 @@ Sistem ini dibuat melalui tahapan lengkap proses Data Science:
 
 ---
 
-## 📂 Struktur Folder
 
