@@ -1,8 +1,8 @@
 # 📊 Final Project Data Science
 
 Nama Kelompok:
-1. Mochamad Atilla Rahman Saleh(22416255201166
-2. Tsania Wildiani (22416255201142))
+1. Mochamad Atilla Rahman Saleh   (22416255201166)
+2. Tsania Wildiani                (22416255201142))
 
 # Link Dataset
 link : https://www.kaggle.com/datasets/ictinstitute/utrecht-fairness-recruitment-dataset/versions/3?utm_source=chatgpt.com
