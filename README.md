@@ -36,5 +36,9 @@ Sistem ini dibuat melalui tahapan lengkap proses Data Science:
    - Prediksi hasil rekrutmen secara real-time
 
 ---
+<img width="494" height="902" alt="image" src="https://github.com/user-attachments/assets/cfada161-73ef-4c3f-977b-aaff40bd4f86" />
+<img width="481" height="908" alt="image" src="https://github.com/user-attachments/assets/66c9502d-f915-4a4f-922e-930266c50e84" />
+
+
 
 
